@@ -1,0 +1,23 @@
+{
+  "name": "web-crawler_node",
+  "version": "1.0.0",
+  "description": "my first node project",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julietowah/web-crawler_node.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julietowah/web-crawler_node.js/issues"
+  },
+  "homepage": "https://github.com/julietowah/web-crawler_node.js#readme",
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
+}
